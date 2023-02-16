@@ -19,5 +19,5 @@ This grammar cannot read: abba
 Run the code using the default values provided using:
 ##### Command: python3 parser.py grammar.txt words.txt
 
-Run the code using your own values by editing the grammar.txt file and words.txt file. words.txt can only take in one word in Chomsky Normal Form at a time currently. THIS WILL BE UPDATED
+Run the code using your own values by editing the grammar.txt file and words.txt file. words.txt can only take in one word in Chomsky Normal Form at a time.
 ##### Command: python3 parser.py grammar_file string_file
