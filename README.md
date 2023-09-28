@@ -52,4 +52,4 @@ I welcome contributions, suggestions, and feedback. Feel free to fork the reposi
 
 ## License
 
-This project is open-source under MIT license. Kindly refer to the accompanying license file for more details.
+This project is open-source under MIT license. 
